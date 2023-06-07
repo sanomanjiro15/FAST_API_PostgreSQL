@@ -1,0 +1,19 @@
+# folder for virtual environment
+allure-reports/
+allure-results/
+.pytest_cache
+.idea/
+*/.pytest_cache
+
+# databases with extension sqlite3
+*.sqlite3
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
