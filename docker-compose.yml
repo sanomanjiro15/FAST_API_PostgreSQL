@@ -34,4 +34,5 @@ services:
 
 # docker-compose up -d --build
 # docker-compose down
+# docker run -p 8080:8080 -it ade4cc13f3a0
 
